@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Um Pouco mais sobre mim em minhas redees!
+  ### Um Pouco mais sobre mim em minhas redes!
  
 <div> 
   <a href = "lucasmarques7113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
