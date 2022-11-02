@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Um pouco mais sobre mim em meu linkedin S2!!
+  ### Um pouco mais sobre mim em meu Linkedin 🥇 🧑‍💻 🤓 !!
  
 <div> 
   <a href="https://www.linkedin.com/in/lucas-marques-501965210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
