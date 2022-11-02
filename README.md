@@ -14,10 +14,9 @@
  
  <br>
  
-  ### Um Pouco mais sobre mim em minhas redes!
+  ### Um pouco mais sobre mim em meu linkedin S2!!
  
 <div> 
-  <a href = "lucasmarques7113@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-marques-501965210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Lucas-MaDeOliveira/Lucas-MaDeOliveira/blob/output/github-contribution-grid-snake.svg)
